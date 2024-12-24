@@ -11,7 +11,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://yourprojectdomain.com",
+        "APP_URL": "https://car-rental-7wes.vercel.app/",
         "APP_KEY":"base64:GeC2WS448yN1r9NLLaIs92og1+0owdQLp/2B9x6sp/Q=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
